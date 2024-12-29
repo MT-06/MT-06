@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MT-06
 - 👀 I’m interested in coding and ethical hacking
 - 🌱 I’m currently learning OOP
-- 💞️ I’m looking to collaborate on anythimhg
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me discord _mt__
 - 😄 Pronouns: he/him
 
